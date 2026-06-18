@@ -4,7 +4,6 @@ Objectif : implémenter en Python une AES-128 instrumentée pour injecter des fa
 
 ## Fichier du cours identifié dans l'archive
 
-Je n'ai pu lister que le contenu de `Securite_Hardware.rar` car l'environnement ne dispose pas d'extracteur RAR. Les fichiers présents sont notamment :
 
 - `Securite_Hardware/Sécurité Hardware.pdf` : fichier le plus probable pour les slides du professeur ;
 - `Securite_Hardware/Basics_In_Fault_Attacks.pdf` : support général sur les attaques en faute ;
